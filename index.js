@@ -11,5 +11,5 @@ yesbtn.addEventListener('mouseover',function () {
 const nobtn = document.querySelector('#nobtn');
 
 nobtn.addEventListener('click',function () {
-    alert('Ve al segundo link 😋')
+    alert('https://ifxvillegas1.github.io/14-2-2/')
 });
